@@ -1,3 +1,4 @@
+![header](https://www.canva.com/design/DAFV2aplGqk/zqQWSw8YUI06QU2kcJ1ypg/view?utm_content=DAFV2aplGqk&utm_campaign=celebratory_first_publish&utm_medium=link&utm_source=celebratory_first_publish)
 <h1 align="center">Hi 👋, I'm Henry Nguyen</h1>
 <h3 align="center">I am currently a junior at Louisiana State University studying Computer Science with focus in Software Engineering. Thank you for visiting my GitHub page and hope you enjoy your stay.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
