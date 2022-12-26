@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!ApeEUOythRi8lifsMti4v_WTk2Oy?e=nTrPPF](https://1drv.ms/b/s!ApeEUOythRi8lifsMti4v_WTk2Oy?e=nTrPPF)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/s!ApeEUOythRi8lifsMti4v_WTk2Oy?e=nTrPPF)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
