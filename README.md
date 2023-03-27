@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 
 
-- 🔭 I’m currently working on **a personal portfolio website**
+- 🔭 I’m currently working on **TBD Project**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **TBD**
 
 - 📄 Know about my [experiences](https://1drv.ms/b/s!ApeEUOythRi8lifsMti4v_WTk2Oy?e=nTrPPF)
 
