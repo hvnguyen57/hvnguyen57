@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 
 
-- 🔭 I’m currently working on **TBD Project**
+- 🔭 I’m currently working on **TBD project**
 
 - 🌱 I’m currently learning **TBD**
 
