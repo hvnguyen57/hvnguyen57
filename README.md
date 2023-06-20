@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📄 Know about my [experiences]()
+- 📄 Know about my [experiences]
 
 - 📫 Reach me at henryvnguyen57@gmail.com
 
