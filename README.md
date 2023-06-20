@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 
 
-- 🔭 I’m currently working on **TBD project**
+- 🔭 I’m currently working on **TBD AWS project**
 
-- 🌱 I’m currently learning **TBD**
+- 🌱 I’m currently learning **AWS**
 
-- 📄 Know about my [experiences](https://1drv.ms/b/s!ApeEUOythRi8lifsMti4v_WTk2Oy?e=nTrPPF)
+- 📄 Know about my [experiences]()
 
 - 📫 Reach me at henryvnguyen57@gmail.com
 
