@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 
 
-- 🔭 I’m currently working on **TBD AWS project**
+- 🔭 I’m currently working on **studying for AWS Solutions Architect Associate Cert**
 
 - 🌱 I’m currently learning **AWS**
 
-- 📄 Know about my [experiences]
+- 📄 Know about my [experiences](https://docs.google.com/document/d/15F6U088PriLTlnFuOlYT4FrFNobexutt/edit?usp=drive_link&ouid=107931225250369611918&rtpof=true&sd=true)
 
 - 📫 Reach me at henryvnguyen57@gmail.com
 
