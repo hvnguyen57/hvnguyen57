@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
 
 
-- 🔭 I’m currently working on **studying for AWS Solutions Architect Associate Cert**
+- 🔭 I’m currently working on **studying for AWS Solutions Architect Associate Certification**
 
 - 🌱 I’m currently learning **AWS**
 
