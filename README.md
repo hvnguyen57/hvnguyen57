@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Henry Nguyen 👋</h1>
 <h3 align="center">Thank you for visiting my GitHub page and hope you enjoy your stay.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/tKYbGz3wNCAAAAAC/catscafe-penguin.gif" >
 
 
 - 🔭 I’m currently working on **studying for AWS Solutions Architect Associate Certification**
