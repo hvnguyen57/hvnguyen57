@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📄 Know about my [experiences](https://docs.google.com/document/d/15F6U088PriLTlnFuOlYT4FrFNobexutt/edit?usp=drive_link&ouid=107931225250369611918&rtpof=true&sd=true)
+- 📄 Know about my [experiences](https://github.com/hvnguyen57/hvnguyen57/blob/main/Nguyen_Henry_Resume.pdf)
 
 - 📫 Reach me at henryvnguyen57@gmail.com
 
