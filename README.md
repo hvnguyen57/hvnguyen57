@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/tKYbGz3wNCAAAAAC/catscafe-penguin.gif" >
 
 
-- 🔭 I’m currently working on **AWS Solutions Architect Associate Certification**
+- 🔭 I’m currently **about to graduate 🎓**
 
 - 🌱 I’m currently learning **AWS**
 
