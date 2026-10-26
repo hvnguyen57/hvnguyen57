@@ -3,11 +3,9 @@
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/tKYbGz3wNCAAAAAC/catscafe-penguin.gif" >
 
 
-- 🔭 I’m currently **living life**
+- 🔭 I’m currently **a full-time student and SWE**
 
-- 🌱 I’m currently learning **how to navigate post grad life**
-
-- 📄 Know about my [experiences](https://github.com/hvnguyen57/hvnguyen57/blob/main/Nguyen_Henry_Resume.pdf)
+- 🌱 I’m currently learning **Distributed Systems and Parallel Programming**
 
 - 📫 Reach me at henryvnguyen57@gmail.com
 
